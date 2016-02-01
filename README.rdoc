@@ -1,0 +1,13 @@
+Bundle to install all gems
+
+rake db:create to create database
+
+rake db:migrate to create schema
+
+rake db:seed to create seed data
+
+Then start the server by running rails s
+
+Open the browser run localhost:3000
+
+You can see the application running
